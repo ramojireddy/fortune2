@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="FortuneSoftEntities-Web.config Connection String" description="FortuneSoftEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/DataModel.UserData.csdl|res://*/DataModel.UserData.ssdl|res://*/DataModel.UserData.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=fortuneserver.database.windows.net;initial catalog=fortuff3_crm;persist security info=True;user id=fortuneadmin;password=Whitehouse@1234;trustservercertificate=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="G:\\Fortune\ Projects\\Crm\\FortuneTechPvtLtd_Old\\FortuneTechPvtLtd\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='FortuneSoftEntities']/@connectionString" />
+  </parameter>
+</parameters>
