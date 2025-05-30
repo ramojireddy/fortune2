@@ -1,0 +1,111 @@
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.pdb
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\Antlr3.Runtime.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\EntityFramework.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\Microsoft.Web.Infrastructure.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\Newtonsoft.Json.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.Extended.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.Web.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Helpers.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Mvc.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Optimization.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Razor.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\WebGrease.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\Antlr3.Runtime.pdb
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\EntityFramework.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\Newtonsoft.Json.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.Extended.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\NLog.Web.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Optimization.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Helpers.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Mvc.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.Razor.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.xml
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.csprojResolveAssemblyReference.cache
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.dll
+E:\Current_Projects\FortuneSoft\FortuneTechPvtLtd\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.pdb
+E:\STD\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.dll
+E:\STD\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.pdb
+E:\STD\FortuneTechPvtLtd\bin\Microsoft.Web.Infrastructure.dll
+E:\STD\FortuneTechPvtLtd\bin\System.Web.Helpers.dll
+E:\STD\FortuneTechPvtLtd\bin\System.Web.Razor.dll
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.dll
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.dll
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.dll
+E:\STD\FortuneTechPvtLtd\bin\Microsoft.Web.Infrastructure.xml
+E:\STD\FortuneTechPvtLtd\bin\System.Web.Helpers.xml
+E:\STD\FortuneTechPvtLtd\bin\System.Web.Razor.xml
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.xml
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.xml
+E:\STD\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.xml
+E:\STD\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.csprojResolveAssemblyReference.cache
+E:\STD\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.dll
+E:\STD\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.pdb
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.dll.config
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\FortuneTechPvtLtd.pdb
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Antlr3.Runtime.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\EntityFramework.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\EntityFramework.SqlServer.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Microsoft.Web.Infrastructure.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\MvcCodeRouting.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Newtonsoft.Json.Bson.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Newtonsoft.Json.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.Extended.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.Web.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Buffers.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Memory.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Net.Http.Extensions.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Net.Http.Formatting.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Net.Http.Primitives.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Numerics.Vectors.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Runtime.CompilerServices.Unsafe.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Threading.Tasks.Extensions.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Helpers.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Http.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Http.WebHost.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Mvc.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Razor.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\WebApiSetupTemplate.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\WebGrease.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Antlr3.Runtime.pdb
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\EntityFramework.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\EntityFramework.SqlServer.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\MvcCodeRouting.pdb
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\MvcCodeRouting.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Newtonsoft.Json.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Newtonsoft.Json.Bson.pdb
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\Newtonsoft.Json.Bson.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.Extended.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\NLog.Web.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Buffers.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Memory.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Net.Http.Formatting.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Numerics.Vectors.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Runtime.CompilerServices.Unsafe.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Threading.Tasks.Extensions.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Helpers.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Http.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Http.WebHost.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Mvc.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.Razor.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.Deployment.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\bin\System.Web.WebPages.Razor.xml
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.csproj.AssemblyReference.cache
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.csproj.CoreCompileInputs.cache
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\obj\Release\FortuneT.0D4166A8.Up2Date
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.dll
+G:\Fortune Projects\Crm\FortuneTechPvtLtd_Old\FortuneTechPvtLtd\obj\Release\FortuneTechPvtLtd.pdb
